@@ -1,4 +1,4 @@
-# Mouse Jiggler - Read Me
+# Jiggle Jiggle - Mouse Jiggler - Read Me
 
 ## Overview
 
