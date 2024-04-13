@@ -2,7 +2,11 @@
 
 ## Overview
 
-Mouse Jiggler is a simple Java program designed to keep your computer awake by intermittently moving the mouse pointer. This prevents the screen from entering sleep or screensaver mode. The program provides a user interface with "Start" and "Stop" buttons to control the mouse jiggling.
+THIS IS HIGHLY DETECTABLE AND NOT DESIGNED TO AVOID WORK.
+
+This tool was designed to keep microsoft teams from closing. 
+
+Mouse Jiggler is a simple Java program designed to keep your computer awake by intermittently moving the mouse pointer. This prevents the screen from entering sleep or screensaver mode. The program provides a user interface with "Start" and "Stop" buttons to control the mouse jiggling. Mouse functionality is maintained during use. 
 
 ## Table of Contents
 
