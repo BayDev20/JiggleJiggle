@@ -1,4 +1,4 @@
-# Jiggle Jiggle - Mouse Jiggler - Read Me
+# Keep Teams Active - Mouse Jiggler - Read Me
 
 ## Overview
 
